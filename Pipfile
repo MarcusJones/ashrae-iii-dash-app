@@ -6,16 +6,9 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-sklearn = "*"
 pandas = "*"
-jupytext = "*"
-seaborn = "*"
-tqdm = "*"
 plotly = "*"
 ipython = "*"
-sklearn-pandas = "*"
-pandas-profiling = "*"
-pyyaml = "*"
 dash = "*"
 pyarrow = "*"
 dash-daq = "*"
